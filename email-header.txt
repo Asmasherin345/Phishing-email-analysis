@@ -1,0 +1,6 @@
+Received: from unknown (HELO paypall.com) (123.45.67.89)
+From: support@paypall.com
+Return-Path: bounce@phishingsite.com
+SPF: Fail
+DKIM: Missing
+Authentication-Results: spf=fail smtp.mailfrom=phishingsite.com

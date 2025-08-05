@@ -1,0 +1,13 @@
+From: support@paypall.com
+Subject: Urgent - Account Access Suspended!
+
+Dear User,
+
+We've detected suspicious activity in your PayPal account. Please verify your account information immediately to avoid suspension.
+
+Click here to secure your account: http://secure.paypall-service.com/login
+
+Failure to comply will result in permanent account termination.
+
+Thank you,
+PayPal Security Team

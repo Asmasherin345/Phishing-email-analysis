@@ -1,4 +1,4 @@
-#  Phishing Email Analysis –
+#  Phishing Email Analysis
 
 This is a cybersecurity internship task focused on identifying phishing traits in an email.
 
